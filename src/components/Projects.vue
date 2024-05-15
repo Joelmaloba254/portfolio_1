@@ -24,26 +24,26 @@
         projects: [
           {
             title: 'LIVING THE TRUTH',
-            description: 'This is an online ministry. The ministry is about spreadig the gospel more so to the online comumnity, targeting youths to live the truth.',
-            technologies: ' Django'
+            description: 'This is an online ministry. The ministry is about spreading the gospel, targeting youths in the online community to live the truth.',
+            technologies: 'Django'
             // Add more project details as needed
           },
           {
             title: 'M-Hardware',
-            description: 'This is  an ecomerce site for a hardware',
+            description: 'This is an e-commerce site for hardware products.',
             technologies: 'Django'
             // Add more project details as needed
           },
           {
             title: 'ONLINE HAPPY BIRTHDAY CARD',
-            description: 'The card was for a friend of mine who was turnimg 26 years old and I had this to offer as a gift  to her.',
-            technologies: 'HTML, CSS, JAVASCRIPT'
+            description: 'The card was for a friend of mine who was turning 26 years old, and I had this to offer as a gift to her.',
+            technologies: 'HTML, CSS, JavaScript'
             // Add more project details as needed
           },
           {
-            title: 'SPAOCE GIFT',
-            description: 'I had to have a gift to my brothe for his girlfriend as a site.',
-            technologies: 'HTML ,CSS, JAVASCRIPT'
+            title: 'SPACE GIFT',
+            description: 'I had to make a gift for my brother for his girlfriend, so I made this site.',
+            technologies: 'HTML, CSS, JavaScript'
             // Add more project details as needed
           },
           // Add more projects as needed
