@@ -41,7 +41,7 @@
             // Add more project details as needed
           },
           {
-            title: 'SPAOCE GIFT',
+            title: 'SSPOUSE GIFT',
             description: 'I had to have a gift to my brothe for his girlfriend as a site.',
             technologies: 'HTML ,CSS, JAVASCRIPT'
             // Add more project details as needed
